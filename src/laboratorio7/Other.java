@@ -32,5 +32,4 @@ public class Other extends User{
     public String toString() {
         return super.toString() + "Descripcion = " + description;
     }
-    
 }

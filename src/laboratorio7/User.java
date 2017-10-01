@@ -58,10 +58,4 @@ public class User {
     public String toString() {
         return "Identificacion = " + identification + ", Nombre = " + name + ", Peimer apellido = " + surname + ", Segundo Apellido = " + secondSurname;
     }
-    
-    
-    
-    
-    
-    
 }
